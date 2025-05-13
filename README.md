@@ -127,4 +127,12 @@ cd capstone-project-backend
 
 👉🏻 [Frontend](https://github.com/SamueleConverso/capstone-project)  
 
+---  
 
+## 📬 Contatti
+
+📫 Sentiti libero di contattarmi per collaborazioni, offerte di lavoro o anche solo per fare networking!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/samuele-converso-b13999326/)
+- 📨 **Email**: samu.converso@gmail.com
+- 🐙 [GitHub](https://github.com/SamueleConverso)
