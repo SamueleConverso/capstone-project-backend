@@ -113,8 +113,8 @@ Il progetto è stato interamente realizzato in autonomia dal sottoscritto, Samue
 ### 🔁 Clonazione del progetto
 
 ```bash
-git clone https://github.com/SamueleConverso/capstone-project
-cd capstone-project
+git clone https://github.com/SamueleConverso/capstone-project-backend
+cd capstone-project-backend
 ```  
 
 ---
