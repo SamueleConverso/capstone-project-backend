@@ -136,3 +136,6 @@ cd capstone-project-backend
 - 💼 [LinkedIn](https://www.linkedin.com/in/samuele-converso-b13999326/)
 - 📨 **Email**: samu.converso@gmail.com
 - 🐙 [GitHub](https://github.com/SamueleConverso)
+- 👽 **Discord**: superlelex
+
+
