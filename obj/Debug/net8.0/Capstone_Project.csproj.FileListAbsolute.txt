@@ -152,3 +152,4 @@ C:\Users\boing\Desktop\CAPSTONE_PROJECT\BACKEND\Capstone_Project\Capstone_Projec
 C:\Users\boing\Desktop\CAPSTONE_PROJECT\BACKEND\Capstone_Project\Capstone_Project\obj\Debug\net8.0\Capstone_Project.genruntimeconfig.cache
 C:\Users\boing\Desktop\CAPSTONE_PROJECT\BACKEND\Capstone_Project\Capstone_Project\obj\Debug\net8.0\ref\Capstone_Project.dll
 C:\Users\boing\Desktop\CAPSTONE_PROJECT\BACKEND\Capstone_Project\Capstone_Project\bin\Debug\net8.0\Capstone_Project.staticwebassets.runtime.json
+C:\Users\boing\Desktop\CAPSTONE_PROJECT\BACKEND\Capstone_Project\Capstone_Project\obj\Debug\net8.0\Capstone_Project.sourcelink.json
