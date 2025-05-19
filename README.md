@@ -102,7 +102,15 @@ Il progetto è stato interamente realizzato in autonomia dal sottoscritto, Samue
 
 ---  
 
-## 📸 Screenshot  
+## 📸 Screenshot & Video  
+
+- Video:
+
+  
+
+https://github.com/user-attachments/assets/38d09830-f495-4335-812e-2e2abf68d8a0
+
+
 
 - Homepage: 
 <p align="center">
