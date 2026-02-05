@@ -1,5 +1,6 @@
 bin/Debug/net8.0/
 obj/Debug/net8.0/
+.vscode/
 .vscode/*
 bin/*
 obj/*
